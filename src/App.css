@@ -2,9 +2,6 @@
   min-height: 100vh;
   width: 100vw;
   background: #0B1012;
-  background-image: linear-gradient(rgba(11, 16, 18, 0.5), rgba(11, 16, 18, 0.5)), url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMTAxMDEwIi8+CjxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgZmlsbD0idXJsKCNncmFpbikiLz4KPGRlZnM+CjxyYWRpYWxHcmFkaWVudCBpZD0iZ3JhaW4iIGN4PSIwLjUiIGN5PSIwLjUiIHI9IjAuNSI+CjxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InJnYmEoMjU1LDI1NSwyNTUsMC4wMSkiLz4KPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSJyZ2JhKDI1NSwyNTUsMjU1LDAuMDUpIi8+CjwvcmFkaWFsR3JhZGllbnQ+CjwvZGVmcz4KPC9zdmc+');
-  background-size: 64px 64px;
-  background-repeat: repeat;
   display: flex;
   flex-direction: column;
   align-items: center;
